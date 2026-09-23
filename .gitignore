@@ -1,0 +1,10 @@
+# Datos (pesados, no se versionan)
+/data
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Cachés de Python
+__pycache__/
+*.pyc
